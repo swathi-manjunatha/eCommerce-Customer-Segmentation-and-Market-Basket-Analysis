@@ -7,6 +7,11 @@ This project aims to segment customers of a UK-based online retailer using RFM m
 
 ---
 
+### **Dataset**:
+Source: The dataset is sourced from Kaggle: https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset/data
+
+---
+
 #### **Data Workflow**:
 1. **Data Preprocessing**:
    - Handled missing `CustomerID` values.
