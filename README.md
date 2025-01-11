@@ -64,7 +64,7 @@ This project aims to segment customers of a UK-based online retailer using RFM m
    ```
 3. Run the notebook:
    ```bash
-   jupyter notebook Online_Retail_Segmentation.ipynb
+   jupyter notebook Online_Retail_Customer_Segmentation.ipynb
    ```
 
 ---
