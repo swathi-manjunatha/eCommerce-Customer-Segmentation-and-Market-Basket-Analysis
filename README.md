@@ -1,4 +1,4 @@
-# Data-Mining-Online-Retail-Customer-Segmentation
+# K-Means-Online-Retail-Customer-Segmentation
 
 #### Online Retail Customer Segmentation Using Data Mining
 
